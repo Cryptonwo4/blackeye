@@ -1,0 +1,9 @@
+cd blackeye
+bash blackeye.sh
+Cloning into 'blackeye'...
+Username for 'https://github.com': paankooza
+Password for 'https://paankooza@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/An0nUD4Y/blackeye.git/'
+-bash: cd: blackeye: No such file or directory
+bash: blackeye.sh: No such file or directory
